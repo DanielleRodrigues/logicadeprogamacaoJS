@@ -4,10 +4,10 @@ Faça um programa que leia o tempo de duração de um evento em uma fábrica exp
 const prompt=require('prompt-sync')();
 
 const texSeg = prompt('Insira a quantidade de segundos:');
-const numSeg = Number (texSeg)
-const totalH = numSeg / 3600
-const totalM = (numSeg%3600)/60
-const totalS = (numSeg%3600)%60
+const numSeg = Number (texSeg);
+const totalH = numSeg / 3600;
+const totalM = (numSeg%3600)/60;
+const totalS = (numSeg%3600)%60;
 
 console.log(`A quantidade total de horas: ${totalH}`);
 console.log(`A quantidade total de minutos: ${totalM}`);
