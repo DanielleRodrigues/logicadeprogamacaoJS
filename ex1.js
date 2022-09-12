@@ -8,5 +8,5 @@ const mesesvividos = prompt('Insira a quantidade de meses vividos:');
 const numMeses = Number (mesesvividos);
 const diasvividos = prompt('Insira a quantidade de dias vividos:');
 const numDias = Number (diasvividos);
-const total= (numAnos*365)+ (numMeses*30.417)+ numDias
+const total= (numAnos*365)+ (numMeses*30)+ numDias
 console.log(`A quantidade de dias vividos foi: ${total}`);
