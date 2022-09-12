@@ -3,7 +3,6 @@ Um sistema de equações lineares do tipo:ax+by = c E dx+ey=f
 pode ser resolvido segundo mostrado abaixo : x=(ce-bf)/ (ae-cd)   E  y(=af-cd)/(ae-bd). 
 Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os valores de x e y.*/
 
-
  const prompt=require('prompt-sync')();
 
  const texA = prompt ('Insira o valor de A:');
