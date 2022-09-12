@@ -1,2 +1,7 @@
-# logicadeprogamacaoJS
-Repositório criado para armazenar exercícios de lógica de programação realizados em Javascript do bootcamp Javascript Generation Brasil.
+<h1 align="center" id="title">Lógica de Programação</h1>
+
+<p align="center"><img src="https://cursos.dankicode.com/app/Views/public/mkt/images/logica/logo.png" alt="project-image"></p>
+
+<p id="description">Repositório para armazenar exercícios de lógica de programação do bootcamp da Generation Brasil. <br>
+Exercícios feitos na linguagem Javascript.</p>
+
